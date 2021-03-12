@@ -2,8 +2,4 @@
 
 this web app is about create, read , update , destroy.
 thechnologie using:
-  laravel
-  html
-  css
-  js
-  mysql database
+  laravel,html,css,js,mysql database
